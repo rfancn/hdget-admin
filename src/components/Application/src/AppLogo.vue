@@ -1,6 +1,5 @@
 <!--
- * @Author: Vben
- * @Description: logo component
+  * @Description: logo component
 -->
 <template>
   <div

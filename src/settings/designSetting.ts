@@ -1,5 +1,5 @@
 export default {
-  prefixCls: 'vben',
+  prefixCls: 'hdget',
 };
 
 // app theme preset color

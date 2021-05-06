@@ -1,6 +1,5 @@
 <!--
- * @Author: Vben
- * @Description: Multi-language switching component
+  * @Description: Multi-language switching component
 -->
 <template>
   <Dropdown
